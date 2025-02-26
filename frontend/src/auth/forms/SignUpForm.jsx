@@ -173,7 +173,7 @@ const SignUpForm = () => {
                 )}
               </Button>
 
-              <GoogleAuth />
+             
             </form>
           </Form>
 

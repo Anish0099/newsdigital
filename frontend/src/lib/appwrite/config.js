@@ -1,9 +1,9 @@
 import { Client, Storage } from "appwrite"
 
 export const appwriteConfig = {
-  projectId: import.meta.env.VITE_APPWRITE_PROJECT_ID,
-  storageId: import.meta.env.VITE_APPWRITE_STORAGE_ID,
-  url: import.meta.env.VITE_APPWRITE_URL,
+  projectId: '67bd2c860008e83ff2b7',
+  storageId: '67bd2e4d00216f106ca7',
+  url: 'https://cloud.appwrite.io/v1',
 }
 
 export const client = new Client()

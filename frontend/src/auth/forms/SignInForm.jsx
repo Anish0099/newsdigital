@@ -157,7 +157,7 @@ const SignInForm = () => {
                 )}
               </Button>
 
-              <GoogleAuth />
+
             </form>
           </Form>
 
